@@ -12,7 +12,7 @@ Dự án xây dựng hệ thống điều khiển cho robot sử dụng 4 bánh 
 
 | Họ và tên             | Vai trò |
 |-----------------------|---------|
-| Nguyễn Thanh Nhân     | Trưởng dự án | Lập trình ROS2, micro-ROS, giao tiếp và điều khiển |
+| Nguyễn Thanh Nhân (Leader)     |  Lập trình ROS2, micro-ROS, giao tiếp và điều khiển |
 | Nguyễn Vũ Huy Khôi    | Lập trình Camera và huấn luyện mô hình YOLO |
 | Hồ Đức An             | Điều phối phần cứng, thiết kế khung robot|
 | **GVHD:** TS. Phạm Quốc Thiện | Hướng dẫn chuyên môn và kiểm tra tiến độ |
