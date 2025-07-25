@@ -30,7 +30,7 @@ Dự án xây dựng hệ thống điều khiển cho robot sử dụng 4 bánh 
 | ✔️ Giao tiếp độc lập các module (Intel D435i, xArm Lite 6, ROS2, micro-ROS) | Hoàn thành       |
 | ✔️ Xây dựng thành công Drive Controller cho robot                         | Hoàn thành       |
 | ✔️ Nâng cấp phần cứng lần 3                                           | Hoàn thành   |
-| ❌ **Viết node xử lý dữ liệu IMU (GY-85)**                                | Chưa hoàn thành  |
+| - **Viết node xử lý dữ liệu IMU (BMX160)**                                | Đang tiến hành  |
 | ❌ **Xây dựng hệ trục tọa độ `base_link → odom → map`**                  | Chưa hoàn thành  |
 | ❌ **Triển khai SLAM (gmapping/slam_toolbox)**                            | Chưa hoàn thành  |
 | ❌ **Xây dựng giao diện kiểm soát từ xa và bản đồ thời gian thực**       | Chưa hoàn thành  |
